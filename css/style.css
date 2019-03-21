@@ -25,6 +25,10 @@ header {
   flex-direction: column;
 }
 
+h1 {
+  font-family: 'Pathway Gothic One', sans-serif;
+}
+
 #head-name {
   justify-content: center;
   align-self: center;
@@ -35,6 +39,11 @@ header {
   align-self: center;
 }
 
+p a {
+  font-family: 'Pathway Gothic One', sans-serif;
+  text-decoration: none;
+}
+
 /*-----Main-----*/
 
 main{
@@ -43,6 +52,10 @@ main{
   width: 100%;
   margin: none;
   padding: none;
+}
+
+h2 {
+  font-family: 'News Cycle', sans-serif;
 }
 
 /****Centered columns for each section****/
